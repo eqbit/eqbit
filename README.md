@@ -23,12 +23,11 @@
 
 
 ## Hello World 👋
-I'm Nick Mitriashkin, and I'm a Software Engineer
-🏄‍♂️. 
+As you might not expect, I'm a Software Engineer with over a decade of expirience🏄‍♂️. 
 
 - 👉 also Freelancer, Entrepreneur
 - 💙 huge fan of Next.js and TypeScript
-- 💬 ask me about: tech, memes, anime
+- 💬 ask me about: Frontend, SEO and Tech Trends
 - ⚡ working with TypeScript, JavaScript, PHP, Rust and a little bit of C++
   
 https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg
