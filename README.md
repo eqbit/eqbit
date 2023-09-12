@@ -23,7 +23,7 @@
 
 
 ## Hello World 👋
-As you might not expect, I'm a Software Engineer with over a decade of expirience🏄‍♂️. 
+As you might not expect, I'm a Software Engineer🏄‍♂️. 
 
 - 👉 also Freelancer, Entrepreneur
 - 💙 huge fan of Next.js and TypeScript
