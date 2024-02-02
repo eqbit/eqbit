@@ -22,13 +22,9 @@
 
 
 
-## Hello World 👋
-As you might not expect, I'm a Software Engineer🏄‍♂️. 
-
-- 👉 also Freelancer, Entrepreneur
-- 💙 huge fan of Next.js and TypeScript
-- 💬 ask me about: Frontend, SEO and Tech Trends
-- ⚡ working with TypeScript, JavaScript, PHP, Rust and a little bit of C++
+## Hello World
+I'm a Software Engineer 
+👉 also UI/UX Designer, Digital Marketing Expert and Entrepreneur
   
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
