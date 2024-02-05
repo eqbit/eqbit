@@ -11,8 +11,8 @@
   <a href="mailto:nick.mitriashkin@gmail.com">
     <img src="https://img.shields.io/badge/@-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://techterratales.com">
-    <img src="https://img.shields.io/badge/techterratales.com-blue?style=for-the-badge&logo=firefox&logoColor=white" alt="Website Badge"/>
+  <a href="https://tdlwebsolutions.com">
+    <img src="https://img.shields.io/badge/tdlwebsolutions.com-blue?style=for-the-badge&logo=firefox&logoColor=white" alt="Website Development"/>
   </a>
 
   <br />
