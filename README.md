@@ -14,10 +14,6 @@
   <a href="https://tdlwebsolutions.com">
     <img src="https://img.shields.io/badge/tdlwebsolutions.com-blue?style=for-the-badge&logo=firefox&logoColor=white" alt="Website Development"/>
   </a>
-
-  <br />
-
-  <img src="https://komarev.com/ghpvc/?username=eqbit&style=flat-square&color=blue" alt=""/>
 </div>
 
 
